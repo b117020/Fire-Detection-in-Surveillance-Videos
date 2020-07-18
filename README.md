@@ -8,4 +8,4 @@ The model currently provides an accuracy of 75% in detecting fire. The challenge
 For Dataset or Pretrained Model Weights contact : b117020@iiit-bh.ac.in
 
 
-The model was deployed on heroku and can be viewed live at : https://fireappaicoe.herokuapp.com/
+The model was deployed on heroku and can be viewed live at : https://fireapp-aicoe.herokuapp.com/
